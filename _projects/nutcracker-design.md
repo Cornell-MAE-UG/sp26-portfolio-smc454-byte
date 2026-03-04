@@ -9,11 +9,11 @@ Required nut cracking force= 2000 N
 
 **Approach**
 
-**1. Model the nutcracker as a lever with the pivot as the fulcrum
+**1. Model the nutcracker as a lever with the pivot as the fulcrum**
 
-2. Apply static equilibrium ΣM = 0
+**2. Apply static equilibrium ΣM = 0**
 
-3. Use moment equations
+**3. Use moment equations**
 M = F × d
 F = applied hand force
 d = perpendicular distance from pivot**
