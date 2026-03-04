@@ -1,7 +1,9 @@
 **Find**
+
 The goal of this project is to design a mechanical nutcracker that can efficiently crack a nut using a system of levers. The objective is to determine the mechanical advantage and ensure that the applied hand force produces a sufficiently large compressive force on the nut.
 
 **Given**
+
 Hand force = 200 N
 Distance from pivot to hand= 0.20 m
 Distance from pivot to nut= 0.02 m
